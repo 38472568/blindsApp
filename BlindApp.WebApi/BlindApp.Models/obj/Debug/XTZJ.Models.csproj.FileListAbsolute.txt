@@ -1,0 +1,11 @@
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\XTZJ.Models.dll
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\XTZJ.Models.pdb
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\EntityFramework.dll
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\EntityFramework.xml
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\obj\Debug\XTZJ.Models.csprojResolveAssemblyReference.cache
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\obj\Debug\XTZJ.Models.dll
+D:\工作目录\长沙汉特\湘潭作家公众号\WebApp\XTZJ.WebApi\XTZJ.Models\obj\Debug\XTZJ.Models.pdb

@@ -1,0 +1,82 @@
+{
+  "pages":[
+    "pages/home/index/index",
+    "pages/message/message",
+    "pages/order/order",
+    "example/index",
+
+    "example/button/button",
+    "example/list/list",
+    "example/input/input",
+    "example/slider/slider",
+    "example/uploader/uploader",
+
+    "example/article/article",
+    "example/badge/badge",
+    "example/flex/flex",
+    "example/footer/footer",
+    "example/gallery/gallery",
+    "example/grid/grid",
+    "example/icons/icons",
+    "example/loadmore/loadmore",
+    "example/panel/panel",
+    "example/preview/preview",
+    "example/progress/progress",
+
+    "example/actionsheet/actionsheet",
+    "example/dialog/dialog",
+    "example/msg/msg",
+    "example/msg/msg_success",
+    "example/msg/msg_fail",
+    "example/picker/picker",
+    "example/toast/toast",
+
+    "example/navbar/navbar",
+    "example/tabbar/tabbar",
+
+    "example/searchbar/searchbar"
+ 
+  ],
+  "window":{
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "怡悦康盲人按摩",
+    "navigationBarBackgroundColor": "#303030",
+    "backgroundColor": "#303030"
+  },
+  "tabBar": {
+    "color": "#8d8d8d",
+    "selectedColor": "#3cd51f",
+    "borderStyle": "white",
+    "list": [{
+      "pagePath": "pages/home/index/index",
+      "text": "首页",
+      "iconPath": "images/home.png",
+      "selectedIconPath" : "images/home_s.png"
+    },
+    {
+      "pagePath": "pages/message/message",
+      "text": "消息",
+      "iconPath": "images/chat.png",
+      "selectedIconPath" : "images/chat_s.png"
+    },
+    {
+      "pagePath": "pages/order/order",
+      "text": "订单",
+      "iconPath": "images/order.png",
+      "selectedIconPath" : "images/order_s.png"
+    },
+    {
+      "pagePath": "example/index",
+      "text": "我的",
+      "iconPath": "images/person.png",
+      "selectedIconPath" : "images/person_s.png"
+    }
+    ],
+    "position":"bottom"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}
